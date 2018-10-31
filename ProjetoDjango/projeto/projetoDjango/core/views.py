@@ -4,4 +4,12 @@ from django.http import HttpResponse
 def index(request):
     return render(request,"index.html")
 
+def lista(request):
+    return render(request, "lista.html")
+
+def login(request):
+    return render(request, "login.html")
+
+
 # Create your views here.
+ 
