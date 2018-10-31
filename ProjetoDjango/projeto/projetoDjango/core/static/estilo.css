@@ -1,7 +1,5 @@
 body{
-    background:url(./imagex.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
+ 	background-color: solid black;
 }
 
 #formulario{
@@ -11,5 +9,5 @@ body{
 }
 
 #letra{
-    color: white;
+    color: red;
 }
